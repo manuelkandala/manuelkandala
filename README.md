@@ -1,4 +1,4 @@
-# Hej, I'm Manuel 👋
+# Hej, I'm Manuel 👋🏾
 
 Data Engineer & BI Architect based in Stockholm, Sweden.
 I design and build modern data platforms and turn data into reliable decision support.
