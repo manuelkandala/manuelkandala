@@ -19,4 +19,4 @@ Swedish, English, Portuguese, French
 
 Let’s connect
 
-LinkedIn 
+LinkedIn](https://www.linkedin.com/in/manuel-k-9362ab163/ 
